@@ -1,2 +1,2 @@
-# Icon Word of Wisdom
+# Meal Planner
  
